@@ -19,3 +19,5 @@
 
 # Go workspace file
 go.work
+
+/lua-5.3.6/
